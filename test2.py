@@ -6,7 +6,7 @@
 # Created Date: Wednesday, June 17th 2020, 2:53:48 pm
 # Author: Ray
 # -----
-# Last Modified: Friday, June 19th 2020, 2:38:51 pm
+# Last Modified: Friday, June 19th 2020, 2:44:56 pm
 # Modified By: Ray
 # -----
 # Copyright (c) 2020 Ray
@@ -45,11 +45,11 @@ RANDOM_SEED = 42
 np.random.seed(RANDOM_SEED)
 tf.random.set_seed(RANDOM_SEED)
 # column_names = ['lable', 'x', 'y', 'z', 'x2', 'y2', 'z2', 'timestamp']
-
+# NOTE:訓練模組用的資料
 df = pd.read_csv('Target')
 df.dropna(axis=0, how='any', inplace=True)
 
-
+# NOTE:要分類的假資料
 df2 = pd.DataFrame(
     {
         'lable': ["0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0", "0"],
