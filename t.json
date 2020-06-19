@@ -1,0 +1,263 @@
+{
+    "coordinateSystems": [{
+            "locators": [],
+            "backgroundImages": [{
+                "widthMeter": 163.79,
+                "xMeter": 0,
+                "visible": true,
+                "otherCoordSys": "",
+                "rotation": 0,
+                "origoY": 0,
+                "origoX": -0,
+                "heightMeter": 163.79,
+                "yMeter": -163.79,
+                "alpha": 1,
+                "id": "Background003",
+                "metersPerPixelY": 0.10919333333333332,
+                "metersPerPixelX": 0.10919333333333332
+            }],
+            "polygons": [],
+            "name": "simCF_2",
+            "id": "b325e920-ca65-4373-a6a6-9f01414949e7",
+            "zones": []
+        },
+        {
+            "locators": [],
+            "backgroundImages": [{
+                "widthMeter": 163.76,
+                "xMeter": 0,
+                "visible": true,
+                "otherCoordSys": "",
+                "rotation": 0,
+                "origoY": 0,
+                "origoX": -0,
+                "heightMeter": 163.76,
+                "yMeter": -163.76,
+                "alpha": 1,
+                "id": "Background004",
+                "metersPerPixelY": 0.10917333333333333,
+                "metersPerPixelX": 0.10917333333333333
+            }],
+            "polygons": [],
+            "name": "simCF_3",
+            "id": "02844edd-6303-4677-ae18-5ec2ee280736",
+            "zones": []
+        },
+        {
+            "locators": [{
+                    "locationLocked": true,
+                    "orientation": [
+                        2.4923,
+                        0,
+                        0
+                    ],
+                    "visible": true,
+                    "notes": "",
+                    "color": "#ff0000ff",
+                    "isOrientationSetManually": false,
+                    "associatedAreas": [
+                        "ad1bfc6b-3a74-4ae3-98f8-37f029de6b5f"
+                    ],
+                    "locationLockedX": true,
+                    "locatorChannel": "Proprietary",
+                    "locationLockedZ": true,
+                    "locationLockedY": true,
+                    "locatorType": "LD6L",
+                    "name": "L004",
+                    "location": [
+                        1.74, -9.22,
+                        2.68
+                    ],
+                    "id": "987bf375ef94"
+                },
+                {
+                    "locationLocked": true,
+                    "orientation": [
+                        2.6965,
+                        0,
+                        0
+                    ],
+                    "visible": true,
+                    "notes": "",
+                    "color": "#ff0000ff",
+                    "isOrientationSetManually": false,
+                    "associatedAreas": [
+                        "ad1bfc6b-3a74-4ae3-98f8-37f029de6b5f"
+                    ],
+                    "locationLockedX": true,
+                    "locatorChannel": "Proprietary",
+                    "locationLockedZ": true,
+                    "locationLockedY": true,
+                    "locatorType": "LD6L",
+                    "name": "L002",
+                    "location": [
+                        3.95, -5.3,
+                        2.69
+                    ],
+                    "id": "987bf375f930"
+                },
+                {
+                    "locationLocked": true,
+                    "orientation": [
+                        2.6119,
+                        0,
+                        0
+                    ],
+                    "visible": true,
+                    "notes": "",
+                    "color": "#ff0000ff",
+                    "isOrientationSetManually": false,
+                    "associatedAreas": [
+                        "ad1bfc6b-3a74-4ae3-98f8-37f029de6b5f"
+                    ],
+                    "locationLockedX": true,
+                    "locatorChannel": "Proprietary",
+                    "locationLockedZ": true,
+                    "locationLockedY": true,
+                    "locatorType": "LD6L",
+                    "name": "L003",
+                    "location": [
+                        2.06, -3.08,
+                        2.69
+                    ],
+                    "id": "987bf375ec2f"
+                },
+                {
+                    "locationLocked": true,
+                    "orientation": [
+                        5.4734,
+                        0,
+                        0
+                    ],
+                    "visible": true,
+                    "notes": "",
+                    "color": "#ff0000ff",
+                    "isOrientationSetManually": false,
+                    "associatedAreas": [
+                        "ad1bfc6b-3a74-4ae3-98f8-37f029de6b5f"
+                    ],
+                    "locationLockedX": true,
+                    "locatorChannel": "Proprietary",
+                    "locationLockedZ": true,
+                    "locationLockedY": true,
+                    "locatorType": "LD6L",
+                    "name": "L001",
+                    "location": [
+                        6.4, -8.39,
+                        2.7
+                    ],
+                    "id": "f045da081266"
+                }
+            ],
+            "backgroundImages": [{
+                "widthMeter": 8.042274881516587,
+                "xMeter": 0,
+                "visible": true,
+                "otherCoordSys": "",
+                "rotation": 0,
+                "origoY": 0,
+                "origoX": -0,
+                "heightMeter": 10.74,
+                "yMeter": -10.74,
+                "alpha": 1,
+                "id": "Background001",
+                "metersPerPixelY": 0.016966824644549763,
+                "metersPerPixelX": 0.016966824644549763
+            }],
+            "polygons": [{
+                "locationLocked": false,
+                "visible": true,
+                "color": "#ff0000ff",
+                "trackingAreas": [{
+                    "name": "heymo",
+                    "id": "ad1bfc6b-3a74-4ae3-98f8-37f029de6b5f",
+                    "minZ": 0,
+                    "track3d": false
+                }],
+                "name": "Polygon001",
+                "polygonData": "-0.00,-1.61|0.00,-10.76|4.23,-10.76|4.23,-10.01|8.04,-10.00|8.04,-4.74|5.88,-4.73|4.95,-4.75|4.88,-4.75|4.86,-2.14|4.29,-2.14|4.27,-1.64|-0.00,-1.61",
+                "id": "531c1b3f-1cc3-4581-88b4-478a0074b3cb",
+                "polygonHoles": []
+            }],
+            "name": "CoordSys001",
+            "id": "e3ed526e-b1db-4e35-9064-adf2d8fa0d2f",
+            "zones": [{
+                    "locationLocked": false,
+                    "visible": true,
+                    "color": "#ff00ff00",
+                    "name": "sofa",
+                    "polygonData": "6.00,-6.50|8.05,-6.50|8.05,-4.74|6.00,-4.74|6.00,-6.50",
+                    "id": "b7fc9009-3369-4a5b-9221-a8a837f6f1e2",
+                    "polygonHoles": []
+                },
+                {
+                    "locationLocked": false,
+                    "visible": true,
+                    "color": "#ff0000ff",
+                    "name": "Working table",
+                    "polygonData": "4.26,-10.00|8.00,-10.00|8.03,-9.00|4.26,-9.00|4.26,-10.00",
+                    "id": "4c5be55f-f716-48c5-8823-d95f59c1cda0",
+                    "polygonHoles": []
+                },
+                {
+                    "locationLocked": false,
+                    "visible": true,
+                    "color": "#ffff0000",
+                    "name": "Big door",
+                    "polygonData": "0.00,-9.40|0.00,-10.73|2.00,-10.73|2.00,-9.40|0.00,-9.40",
+                    "id": "f4f00e71-bce9-4f0b-9b65-87b05f421238",
+                    "polygonHoles": []
+                }
+            ]
+        },
+        {
+            "locators": [],
+            "backgroundImages": [{
+                "widthMeter": 162.86,
+                "xMeter": 0,
+                "visible": true,
+                "otherCoordSys": "",
+                "rotation": 0,
+                "origoY": 0,
+                "origoX": -0,
+                "heightMeter": 162.86,
+                "yMeter": -162.86,
+                "alpha": 1,
+                "id": "Background002",
+                "metersPerPixelY": 0.10857333333333334,
+                "metersPerPixelX": 0.10857333333333334
+            }],
+            "polygons": [],
+            "name": "simCF_1",
+            "id": "b6c824f4-23c5-403a-9d82-b9654ba37ae0",
+            "zones": []
+        },
+        {
+            "locators": [],
+            "backgroundImages": [{
+                "widthMeter": 163.81999999999996,
+                "heightMeter": 163.81999999999996,
+                "xMeter": 0,
+                "visible": true,
+                "yMeter": -163.82,
+                "rotation": 0,
+                "alpha": 1,
+                "origoY": -2.6024028900992564E-13,
+                "id": "Background005",
+                "origoX": -0,
+                "metersPerPixelY": 0.10921333333333332,
+                "metersPerPixelX": 0.10921333333333332
+            }],
+            "polygons": [],
+            "name": "simCF_5",
+            "id": "65a4c078-af11-4eac-919f-269bea525516",
+            "zones": []
+        }
+    ],
+    "code": 0,
+    "responseTS": 1592382601461,
+    "message": "ProjectData",
+    "version": "2.0",
+    "command": "http://114.34.162.85:8080/qpe/getProjectInfo?version=2&noImageBytes=true",
+    "status": "Ok"
+}
